@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ First Hello World with 15<br>🎯 Goals: becoming a complete developer and changing the world of tech.<br>🎲 Fun fact: I love sport as much as I love coding</p>
+<p align="left">✨ First Hello World at 15<br>🎯 Goals: becoming a complete developer and changing the world of tech.<br>🎲 Fun fact: I love sport as much as I love coding</p>
 
 ###
 
