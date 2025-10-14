@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi, My name is Omar and I'm 17 years old. I'm a Fullstack developer and tech enthusiast. My focus is on solving real-world problems through innovative, convenient, and accessible applications taking advantage of a complete tech stack designed to build modern solutions.</p>
+<p align="center">Hi, My name is Omar and I'm 18 years old. I'm a Fullstack developer and tech enthusiast. My focus is on solving real-world problems through innovative, convenient, and accessible applications taking advantage of a complete tech stack designed to build modern solutions.</p>
 
 ###
 
