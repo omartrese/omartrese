@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi, My name is Omar and I'm 18 years old. I'm a Fullstack developer and tech enthusiast. My focus is on solving real-world problems through innovative, convenient, and accessible applications taking advantage of a complete tech stack designed to build modern solutions.</p>
+<p align="center">Hi, my name is Omar and I’m a 18yo fullstack developer and tech enthusiast focused on building modern, accessible, and intuitive solutions that solve real-world problems. Through Ody Dev, I aim to combine innovation, creativity, and functionality to help people and businesses reach their full potential.</p>
 
 ###
 
