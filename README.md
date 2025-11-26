@@ -4,6 +4,7 @@
 
 <p align="center">Hi, my name is Omar and I’m a 18yo fullstack developer and tech enthusiast focused on building modern, accessible, and intuitive solutions that solve real-world problems. Through software, I aim to combine innovation, creativity, and functionality to help people and businesses reach their full potential.</p>
 
+<p align="center">Also, I love learning new things about the world of technology and experiment with other areas like software systems, Game development or even AI and Quantum computers!</p>
 ###
 
 <h2 align="left">About me</h2>
